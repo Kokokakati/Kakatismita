@@ -77,6 +77,6 @@ and so on
 
 ## Lessons Learned
 
-Using the dataset one can perform a number of queries. In this project , I performed the necessary queries using limited columns required to get a clear picture of covid cases, deaths, vaccinations etc. in different countries during different time. This indeed helped me boost my experience with SQL.
+Using the dataset one can perform a number of queries. In this project , I have performed the necessary queries using limited columns required to get a clear picture of covid cases, deaths, vaccinations etc. in different countries during different time. This indeed helped me boost my experience with SQL.
 
   
